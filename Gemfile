@@ -57,6 +57,7 @@ gem 'rexml', '~> 3.2', '>= 3.2.5'
 gem 'rspec', '~> 3.5'
 gem 'rake', '~> 11.2', '>= 11.2.2'
 gem 'guard', '~> 2.14'
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
